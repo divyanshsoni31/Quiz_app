@@ -1,0 +1,16 @@
+{% extends "base.html" %}
+{% block title %}Marks{% endblock title %}
+{% block body %}
+<div class="container text-center mt-5">
+    <!-- Marks Display -->
+    <div class="display-1 text-primary mb-3">
+        Your Marks: <span id="marks">{{marks}}</span>
+    </div>
+
+    <!-- Thank You Message -->
+    <h2 class="text-success mb-4">Thank you for visiting our website!</h2>
+
+    <!-- Logout Button -->
+    <a href="/quiz/logout/"><button class="btn btn-danger">Logout</button></a>
+</div>
+{% endblock body %}
