@@ -26,10 +26,10 @@ Start the server
 ```bash
   python manage.py runserver
 ```
-This command gives you one url the follow that url it will redirects you on browser to experience the app.
+This command gives you one URL. If you follow that URL, it will redirect you to the browser, where you can experience the app.
 
 ## 🔗 Contact-info:
-Divyansh Soni
+Divyansh Soni<br>
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divyansh-soni-997a58237/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sonidivyansh79@gmail.com)
 
